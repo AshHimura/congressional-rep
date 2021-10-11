@@ -1,0 +1,7 @@
+/* css code centering text and image */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
